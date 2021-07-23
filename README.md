@@ -41,7 +41,7 @@
 ### Next Steps for App UI and Functionality
 
 - n/a
-- 
+
 
 ### Next Steps for Code
 

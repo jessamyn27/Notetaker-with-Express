@@ -10,7 +10,6 @@ app.use(express.static('public'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-
 app.get('/api/notes', (req, res) => {
     console.log('hitting api/notes route GET request')
     res.json(db)

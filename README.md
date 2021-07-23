@@ -1,6 +1,6 @@
 # Notetaker-with-Express
 
-#### Created a Personal Portfolio Websiteusing html, css and responsve techniques like flexbox, @media and css selectors
+#### created an application called Note Taker that can be used to write and save notes. This application uses Express.js back end and will save and retrieve note data from a JSON file. It's deployed to Heroku so database can maintain GET POST and DELETE requests.
 
 ## Table of Contents
 
